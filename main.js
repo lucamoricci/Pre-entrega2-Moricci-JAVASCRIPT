@@ -58,7 +58,6 @@ function operaciones(op)
             
             var memoriaop = document.getElementById("memoria").value;
 
-
             let operandos;
             let resultado;
             
